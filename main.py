@@ -17,6 +17,7 @@ class Employee:
 
 emp_1 = Employee('Diego', 'Espindola', 50000)
 print(emp_1.raise_amt)
+
 emp_2 = Employee('Test', 'Employee', 60000)
 
 emp_1.apply_raise()
